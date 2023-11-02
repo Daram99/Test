@@ -10,6 +10,6 @@ tensorflow
 pandas
 datetime
 numpy
-/home/adminuser/venv/bin/python -m pip install --upgrade pip
+/home/adminuser/venv/bin/pip install --upgrade pip
 branca
 ssl
