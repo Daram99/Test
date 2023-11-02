@@ -1,0 +1,14 @@
+streamlit
+plotly
+streamlit_folium
+folium
+geopy
+haversine
+joblib
+xgboost
+tensorflow
+pandas
+datetime
+numpy
+branca
+ssl
