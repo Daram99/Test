@@ -11,4 +11,5 @@ pandas
 datetime
 numpy
 branca
+lxml
 #ssl
